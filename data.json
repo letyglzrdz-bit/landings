@@ -1,0 +1,30 @@
+{
+  "score": 77,
+  "issues": [
+    {
+      "type": "error",
+      "message": "Missing meta description"
+    },
+    {
+      "type": "warning",
+      "message": "8 image(s) missing alt text"
+    },
+    {
+      "type": "info",
+      "message": "Missing Open Graph meta tags (og:title, og:description)"
+    }
+  ],
+  "passed": [
+    "Title tag is properly configured",
+    "Single H1 heading present",
+    "Canonical URL is set",
+    "Viewport meta tag present",
+    "Language attribute set"
+  ],
+  "meta": {
+    "title": "Cirugía de Cataratas | Enlace Visual",
+    "description": null,
+    "canonical": "https://enlacevisual.com.mx/lp-cirugia-cataratas/",
+    "ogImage": null
+  }
+}
